@@ -1,5 +1,5 @@
 # A-SIMPLE-TUTORIAL-TO-START-WITH-FUNCTIONAL-NETWORKS.
-![Functional Brain EEG Network](brain.png)
+![Functional Brain EEG Network](brain (copy).png)
 Here we are! The main idea is to who how we can build up a functional brain network from a EEG recording database, then visualize some network features in the brain network. So let's star! (Since v. R2015b and henceforth).
 A webpage version withh steps is available at: http://complexity.es/school/neuroscience
 
