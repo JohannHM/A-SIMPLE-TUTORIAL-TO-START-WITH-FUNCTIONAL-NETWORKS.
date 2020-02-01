@@ -1,6 +1,8 @@
 # A-SIMPLE-TUTORIAL-TO-START-WITH-FUNCTIONAL-NETWORKS.
 ![Functional Brain EEG Network](brain.png)
-Here we are! The main idea is to who how we can build up a functional brain network from a EEG recording database, then visualize some network features in the brain network. So let's star! (Since v. R2015b and henceforth)
+Here we are! The main idea is to who how we can build up a functional brain network from a EEG recording database, then visualize some network features in the brain network. So let's star! (Since v. R2015b and henceforth).
+A webpage version withh steps is available at: http://complexity.es/school/neuroscience
+
 
 The use of graph theory and complex systems for functional connectivity (Clicking in the image a PDF copy). This tutorial of brain complex networks had been prepared by Johann H. Martínez. Working with raw time series of EEG, frequency band decomposition, Building up the correlation-based brain networks (different type of correlations), visualize matrix representation of graphs, work with matrix rewiring and thresholding methods. Here we use of the Brain Connectivity Toolbox (BCT) by Sporns et al, Matlab Tools for Network Analysis by MIT. Thanks to David Legland for your function "double2rgb.m". Dataset were extracted from the paper by Chennu et. al. PlosOne (2016).
 
